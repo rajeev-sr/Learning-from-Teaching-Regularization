@@ -1,0 +1,8 @@
+wandb/
+ckpt/
+__pycache__/
+data/
+utils/__pycache__/
+model/__pycache__/
+logs/
+env/
